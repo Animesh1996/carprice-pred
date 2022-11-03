@@ -118,7 +118,6 @@ python-lsp-server==1.5.0
 python-slugify==6.1.2
 pytoolconfig==1.2.2
 pytz==2022.5
-pywin32==304
 pywin32-ctypes==0.2.0
 pywinpty==2.0.9
 PyYAML==6.0
